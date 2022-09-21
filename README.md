@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @la10nay
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Java Script
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning Java Script and complete my Fullstack course.
 - 💞️ I’m looking to collaborate on anyand everything I can help out with 
 - 📫 How to reach me latinambell@gmail.com
 
